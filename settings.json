@@ -1,0 +1,15 @@
+{
+    "name": "voterDAO",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "vDToken",
+        "/category/asset_value_tracking/core-token/symbol": "VDT",
+        "/category/asset_value_tracking/core-token/decimals": "5",
+        "/category/asset_value_tracking/core-token/supply": "25000000"
+    }
+}
